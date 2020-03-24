@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on tcho</title>
-    <link>terencecho12.github.io/personal-site/categories/</link>
+    <link>terencecho.github.io/personal-site/categories/</link>
     <description>Recent content in Categories on tcho</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="terencecho12.github.io/personal-site/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="terencecho.github.io/personal-site/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

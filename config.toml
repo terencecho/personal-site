@@ -1,4 +1,4 @@
-baseURL = "terencecho12.github.io/personal-site"
+baseURL = "terencecho.github.io/personal-site"
 languageCode = "en-us"
 title = "tcho"
 themesDir = "themes"
@@ -42,7 +42,7 @@ summaryLength = 30
   google_analytics_id=""
   homepage_button_link = '/photos'
   homepage_button_text = 'Check out my photos'
-  homepage_intro = 'the tall dog took .'
+  homepage_intro = ''
   homepage_image = '/images/sf-dolo.jpg'
 
   ## You can enable to add anchor links to header elements
