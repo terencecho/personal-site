@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on tcho</title>
-    <link>https://terencecho.github.io/terencecho.github.io/personal-site/tags/</link>
+    <link>https://terencecho.github.io/personal-site/tags/</link>
     <description>Recent content in Tags on tcho</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://terencecho.github.io/terencecho.github.io/personal-site/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://terencecho.github.io/personal-site/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
